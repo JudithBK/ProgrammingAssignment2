@@ -1,10 +1,12 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Overall description of the two functions: 
+## makeCacheMatrix does....
+## cacheSolve does....
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-
+## x is the matrix you want to work with
+    
+    
 }
 
 
@@ -12,4 +14,5 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
+        ## As above, x is the matrix you want to work with
 }
